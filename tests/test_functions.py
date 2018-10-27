@@ -1,6 +1,4 @@
-
-def square(x):
-    return x*x
+from quicktest import square
 
 
 def test_square_positive_integers():
